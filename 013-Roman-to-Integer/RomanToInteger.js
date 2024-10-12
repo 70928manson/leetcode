@@ -1,6 +1,7 @@
 /**
- * 先用 map 儲存所有羅馬數字對應的值, 包括 IV. IX, XL, XC, CD, CM
- * 找值時先兩個看, 如果不是 IV. IX, XL, XC, CD, CM 其中之一, 在一個
+ * 先用 map 儲存羅馬數字對應的值
+ * 思考怎麼處理 IV. IX, XL, XC, CD, CM
+ * 最左邊為最大的羅馬數字並依序由右排列, 因此可以假定若遇到 左邊 Roman < 右邊 Roman 情況, 即為 IV. IX, XL, XC, CD, CM
  */
 
 
@@ -26,7 +27,7 @@ var romanToInt = function(s) {
 
         if (check && map[s[i]] < map[s[i+1]]) {
             ans = ans + map[s[i+1]] - map[s[i]];
-            i++
+            i++;
         } else {
             ans += map[s[i]]
         }
