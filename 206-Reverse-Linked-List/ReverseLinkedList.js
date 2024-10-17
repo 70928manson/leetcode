@@ -19,8 +19,13 @@ var reverseList = function(head) {
 
     while(current !== null) {
         let next = current.next;
+
+        // link連結反過來, 原本 1 指向 2, 改成 1 指向 null, 2指向1
         current.next = reverseList;
+
+        //值 丟給 reverseList
         reverseList = current;
+        
         current = next;
     };
 
