@@ -1,6 +1,6 @@
 # Leetcode Practice
 
-This repository contains my solutions to various Leetcode problems, categorized by topic.
+This repository contains my solutions to various Leetcode problems.
 
 Each solution is implemented with a focus on efficiency, readability, and adherence to best practices.
 
