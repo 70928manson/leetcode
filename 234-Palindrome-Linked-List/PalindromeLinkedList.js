@@ -55,6 +55,7 @@ function reverseNode(node) {
         
         cur = cur.next;
 
+        // 這邊鍊接反轉
         temp.next = prev;
         prev = temp;
     }
