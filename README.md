@@ -1,10 +1,18 @@
 # Leetcode Practice
 
-This repository contains my solutions to various Leetcode problems.
+Welcome to my Leetcode Practice repository! 🎯  
 
-Each solution is implemented with a focus on efficiency, readability, and adherence to best practices.
+This repository contains my solutions to various Leetcode problems, designed to improve coding skills and algorithmic thinking.  
+
+## Features
+
+- **Efficient Solutions**: Each problem is solved with a focus on performance and optimal resource usage.
+- **Readable Code**: Solutions prioritize clarity to make them easy to understand and review.
+- **Detailed Explanations**: Every solution is accompanied by comments or documentation to explain the approach, logic, and trade-offs.
 
 ## Goals
 
-- Enhance problem-solving skills.
-- Each solution is well-documented to explain the approach and logic.
+- Master diverse problem-solving techniques for technical interviews and real-world applications.
+- Continuously refine skills in algorithms, data structures, and code optimization.
+- Share knowledge and approaches with others in the developer community.
+
