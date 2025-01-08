@@ -1,8 +1,8 @@
 # Leetcode Practice
 
-Welcome to my Leetcode Practice repository! 🎯  
+Welcome to my Leetcode Practice repository! 🎯
 
-This repository contains my solutions to various Leetcode problems, designed to improve coding skills and algorithmic thinking.  
+This repository showcases my journey in solving Leetcode problems, focusing on improving coding skills and mastering algorithmic thinking.
 
 ## Features
 
@@ -15,4 +15,3 @@ This repository contains my solutions to various Leetcode problems, designed to 
 - Master diverse problem-solving techniques for technical interviews and real-world applications.
 - Continuously refine skills in algorithms, data structures, and code optimization.
 - Share knowledge and approaches with others in the developer community.
-
