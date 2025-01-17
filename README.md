@@ -14,4 +14,4 @@ This repository showcases my journey in solving Leetcode problems, focusing on i
 
 - Master diverse problem-solving techniques for technical interviews and development challenges.
 - Continuously refine skills in algorithms, data structures, and code optimization.
-- Share knowledge and approaches with others in the developer community.
+- Share knowledge and solution with others in the developer community.
