@@ -12,6 +12,6 @@ This repository showcases my journey in solving Leetcode problems, focusing on i
 
 ## Goals
 
-- Master diverse problem-solving techniques for technical interviews and development challenges.
-- Continuously refine skills in algorithms, data structures, and code optimization.
-- Share knowledge and solution with others in the developer community.
+- Develop diverse problem-solving techniques for technical interviews and real-world challenges.
+- Continuously enhance expertise in algorithms, data structures, and code optimization.
+- Share insights and solutions with the developer community to foster growth and collaboration.
