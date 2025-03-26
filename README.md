@@ -2,7 +2,7 @@
 
 Welcome to my Leetcode Practice repository! 🎯
 
-This repository showcases my journey in solving Leetcode problems, focusing on improving coding skills and mastering algorithmic thinking.
+This is where I keep track of my Leetcode solutions, focusing on improving coding skills and getting better at algorithms and problem-solving.
 
 ## Features
 
