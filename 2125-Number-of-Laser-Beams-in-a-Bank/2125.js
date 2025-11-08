@@ -8,7 +8,7 @@ var numberOfBeams = function (bank) {
   let count = [];
   for (const devices of bank) {
     let temp = 0;
-    for (device of devices) {
+    for (const device of devices) {
       if (device === "1") {
         temp++;
       }
